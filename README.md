@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayusss
 - 👀 I’m interested in coding and web Development
-- 🌱 I’m currently learning js:Reactjs:php:mysql:nodejs
+- 🌱 I’m currently learning js:Reactjs:JAVA:mysql:SPRING BOOT
 - 💞️ I’m looking to collaborate on coding stuff
 - 📫 How to reach me This is My Emailid:=jayupatil4p@gmail.com
 
